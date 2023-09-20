@@ -1,3 +1,8 @@
+/*
+EvenDigitSum
+Arthur Kroth
+20.09.23
+*/
 public class EvenDigitSum{
     public static void main(String [] args){
         getEvenDigitSum(123456789);
