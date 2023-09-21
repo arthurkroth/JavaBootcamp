@@ -36,7 +36,7 @@ Please refer to the specific folders and files within this repository for detail
 1. **Clone the Repository**: To access the contents of this repository, clone it to your local machine using Git:
 
    ```bash
-   git clone https://github.com/your-username/java-bootcamp-data.git
+   git clone https://github.com/arthurkroth/JavaBootcamp.git
 
 2 . **Explore the Content**: Browse the folders and files to find the resources you need. You can use the sample code, data sets, and additional materials to enhance your learning experience.
 
