@@ -40,7 +40,7 @@ Please refer to the specific folders and files within this repository for detail
 
 2 . **Explore the Content**: Browse the folders and files to find the resources you need. You can use the sample code, data sets, and additional materials to enhance your learning experience.
 
-3. **Contribute**: If you have any additional resources, improvements, or corrections to the existing content, please consider [contributing](contributing) to this repository. See the Contributing section for guidelines.
+3. **Contribute**: If you have any additional resources, improvements, or corrections to the existing content, please consider contributing to this repository. See the Contributing section for guidelines.
 
 ## Contributing
 
@@ -56,4 +56,4 @@ Please ensure your contributions align with the repository's purpose and follow 
 
 ## License
 
-This repository is licensed under the MIT License. For more details, please refer to the [LICENSE](LICENSE) file.
+This repository is licensed under the MIT License. For more details, please refer to the LICENSE file.
