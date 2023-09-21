@@ -1,3 +1,8 @@
+/**
+Shared Digit Challange
+Arthur Kroth
+21/09/2023
+ */
 public class SharedDigit{
     public static void main(String []args){
         hasSharedDigit(12, 23);
