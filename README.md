@@ -21,13 +21,13 @@ This repository aims to complement the course by providing additional resources,
 
 This repository is organized into the following sections:
 
-- **Lecture Materials**: Lecture slides, PDFs, or additional notes that enhance the course content.
+- **Lecture Materials**: ~~Lecture slides, PDFs, or additional notes that enhance the course content~~.
 
 - **Sample Code**: Code examples and projects discussed in the course, allowing learners to experiment and practice.
 
-- **Data Sets**: Relevant data sets or files that are used in the course, such as sample databases or CSV files for Java projects.
+- **Data Sets**: ~~Relevant data sets or files that are used in the course, such as sample databases or CSV files for Java projects~~.
 
-- **Additional Resources**: Supplementary resources, articles, or links to external materials that can aid in understanding Java development concepts covered in the course.
+- **Additional Resources**: ~~Supplementary resources, articles, or links to external materials that can aid in understanding Java development concepts covered in the course~~.
 
 Please refer to the specific folders and files within this repository for detailed information.
 
