@@ -1,3 +1,8 @@
+/*
+GreatestCommonDivisor
+Arthur Kroth
+25.09.23
+*/
 public class GreatestCommonDivisor {
     public static void main(String[] args) {
         int test = getGreatestCommonDivisor(25, 15);
